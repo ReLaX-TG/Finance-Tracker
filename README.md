@@ -4,6 +4,8 @@ A personal finance dashboard built with HTML, CSS, and JavaScript. Track income 
 
 **Status: beta.** Keep regular JSON backups, especially before updating the app or moving it to another browser or address.
 
+## BETA TEST https://relax-tg.github.io/Finance-Tracker/
+
 ## Features
 
 - Add, edit, delete, and repeat transactions with categories, dates, and descriptions.
