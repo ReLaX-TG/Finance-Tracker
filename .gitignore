@@ -1,0 +1,19 @@
+# Personal financial exports: keep these outside the repository.
+backups/
+private-data/
+finance-tracker-backup-*.json
+Finance_Tracker_EMERGENCY_BACKUP.json
+Finance_Audit_*.json
+Finance_History_*.csv
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+
+# Operating system and local development files
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+tmp/
